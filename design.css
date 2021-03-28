@@ -1,0 +1,43 @@
+{
+	margin: 0px;
+	padding: 0px;
+
+}
+.button{
+	width: 75px;
+	height: 50px;
+	font-size: 25px;
+	margin: 2px;
+	cursor: pointer;
+	border: none;
+	border-radius: 10px;
+}
+.textview{
+	width: 305px;
+	height: 43px;
+	margin: 5px;
+	font-size: 25px;
+	padding: 6px;
+	border: none;
+	background-color:#FDFEFE;
+	border-radius: 20px;
+}
+.main{
+	width: 332px;
+	height: 355px;
+	background-color: #17202a;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	border: 1px solid black;
+	border-radius: 20px;
+}
+.number{
+	color: black;
+	font-weight: bold;
+}
+.symbol{
+	background-color: #F39C12;
+	font-weight: bold;
+}
